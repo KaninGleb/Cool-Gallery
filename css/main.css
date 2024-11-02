@@ -87,3 +87,12 @@ body, html {
     left: 8vw;
     max-width: 24vw;
 }
+
+.logo {
+    font-size: calc(var(--sizeindex) * 3.6);
+    font-weight: 900;
+    display: inline-block;
+    background: linear-gradient(45deg, DarkMagenta, Tomato, Violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
