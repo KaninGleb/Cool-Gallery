@@ -1,4 +1,4 @@
-# Project: China Slider 🇨🇳
+# Project: China Slider
 
 ## Description
 This project features an interactive slider dedicated to China, showcasing its rich culture and historical landmarks. Users can scroll through slides to view various images that reflect the unique aspects of the country. The slider also includes a **parallax effect** to create depth and dynamism. 🌏✨
