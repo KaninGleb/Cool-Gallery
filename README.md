@@ -16,3 +16,4 @@ The following technologies were used in this project:
 - Ability to **open/close slides** for additional information. 🔍
 
 **Immerse yourself in the fascinating world of China with this slider!** You can scroll through the slides by **holding down the mouse button** and dragging! 🖱️➡️
+[👉 Go to the slider!](https://kaningleb.github.io/Cool-Gallery-China/)
