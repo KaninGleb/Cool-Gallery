@@ -7,3 +7,10 @@
 :root {
     --dark: #070707;
 }
+
+body, html {
+    width: 100%;
+    height: 100%;
+    background-color: var(--dark);
+    color: #ffffff;
+}
