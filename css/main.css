@@ -47,7 +47,7 @@ body, html {
 .slider__item {
     max-height: 75vh;
     overflow: hidden;
-    position: relative;
+    cursor: pointer;
 }
 
 .slider__img {
