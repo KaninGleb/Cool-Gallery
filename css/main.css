@@ -55,4 +55,5 @@ body, html {
     background-size: cover;
     position: absolute;
     left: -100%;
+    transition: var(--transition)!important;
 }
