@@ -67,7 +67,7 @@ body, html {
     top: -90vh;
     left: -10vh;
     opacity: .15;
-    filter: saturate(10) blur(120px);
+    filter: blur(120px) saturate(10);
 }
 
 .slider_bg .slider__item {
