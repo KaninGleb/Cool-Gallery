@@ -8,9 +8,22 @@
     --dark: #070707;
 }
 
+@font-face {
+    font-family: raleway_m;
+    src: url(../assets/fonts/raleway-v22-cyrillic-300.woff2);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: raleway_m;
+    src: url(../assets/fonts/raleway-v22-cyrillic-900.woff2);
+    font-weight: 900;
+}
+
 body, html {
     width: 100%;
     height: 100%;
     background-color: var(--dark);
     color: #ffffff;
+    font-family: raleway_m, sans-serif;
 }
