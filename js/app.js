@@ -21,3 +21,5 @@ const sliderBg = new Swiper('.slider_bg', {
     spaceBetween: 60,
     slidesPerView: 3.5
 })
+
+sliderMain.controller.control = sliderBg

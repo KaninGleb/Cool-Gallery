@@ -65,4 +65,6 @@ body, html {
     transform: rotate(-20deg)!important;
     top: -90vh;
     left: -10vh;
+    opacity: .15;
+    filter: saturate(10) blur(120px);
 }
