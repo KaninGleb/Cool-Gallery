@@ -96,3 +96,7 @@ body, html {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.description {
+    opacity: .9;
+}
