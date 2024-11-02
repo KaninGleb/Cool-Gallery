@@ -68,3 +68,7 @@ body, html {
     opacity: .15;
     filter: saturate(10) blur(120px);
 }
+
+.slider_bg .slider__item {
+    max-height: 100vh;
+}
