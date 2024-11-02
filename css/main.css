@@ -7,6 +7,7 @@
 :root {
     --dark: #070707;
     --sizeindex: calc(1vw + 1vh);
+    --transition: .55s cubic-bezier(.2, 0.6, 0, 1);
 }
 
 @font-face {
@@ -36,4 +37,8 @@ body, html {
     transform: rotate(15deg);
     overflow: visible;
     top: 10vh;
+}
+
+.slider__wrapper {
+    transition: var(--transition)!important;
 }
