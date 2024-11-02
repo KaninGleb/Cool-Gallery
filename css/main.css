@@ -30,3 +30,8 @@ body, html {
     overflow: hidden;
     line-height: 1.8;
 }
+
+.slider {
+    height: 100%;
+    transform: rotate(15deg);
+}
