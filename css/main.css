@@ -45,10 +45,14 @@ body, html {
 
 .slider__item {
     max-height: 75vh;
+    overflow: hidden;
+    position: relative;
 }
 
 .slider__img {
-    width: 100%;
+    width: 300%;
     height: 100%;
     background-size: cover;
+    position: absolute;
+    left: -100%;
 }
